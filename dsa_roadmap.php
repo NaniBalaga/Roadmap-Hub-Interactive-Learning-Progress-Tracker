@@ -4,9 +4,9 @@ session_start();
 date_default_timezone_set('Asia/Kolkata');
 
 $servername = "localhost";
-$username = "u937292695_nanibalaga";
-$password = "Nani@0779";
-$dbname = "u937292695_nanibalaga";
+$username = "";
+$password = "";
+$dbname = "";
 
 
 
