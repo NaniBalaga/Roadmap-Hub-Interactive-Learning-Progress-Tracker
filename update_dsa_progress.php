@@ -4,9 +4,9 @@ include '../db_connection.php'; // Ensure you have your db connection here (or p
 
 // Database Config (If not included above)
 $servername = "localhost";
-$username = "u937292695_nanibalaga";
-$password = "Nani@0779";
-$dbname = "u937292695_nanibalaga";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
