@@ -1,11 +1,10 @@
 <?php
 session_start();
 
-// Database Config
 $servername = "localhost";
-$username = "u937292695_nanibalaga";
-$password = "Nani@0779";
-$dbname = "u937292695_nanibalaga";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
